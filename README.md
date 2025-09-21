@@ -10,6 +10,6 @@ I am a Systems Information Engineer from the National University of Costa Rica (
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=3)](https://skillicons.dev)
 <h3 align="left">Tools & Technologies:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,vscode,github,postman,selenium,l&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,selenium,postman,vscode,github,dotnet,l&perline=3)](https://skillicons.dev)
 <br>
 Last Edited on: 20/09/2025
