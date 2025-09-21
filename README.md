@@ -4,7 +4,7 @@ I am a Systems Information Engineer from the National University of Costa Rica (
 <br>
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,cs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cs&perline=3)](https://skillicons.dev)
 <h3 align="left">Database:</h3>
   
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=3)](https://skillicons.dev)
